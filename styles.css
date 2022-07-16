@@ -1,0 +1,19 @@
+th, td {
+  border: 1.5px dotted black;
+  border-radius: 10px;
+}
+td {
+	padding: 4px;
+  text-align: center;
+  background: turquoise;
+  font-size: 104%;
+}
+th {
+	background: maroon;
+  color: white;
+  padding: 2px;
+}
+table {
+	width: 60%;
+  font-family: "Courier";
+}
